@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Test</title>
+    <style>
+        body {
+            background-color: #6fd780;
+            font: normal 20pt Arial;
+        }
+        h1 {
+            color: white;
+        }
+        p{
+            color: #d6f0e1
+        }
+    </style>
+</head>
+<body>
+    <h1>YOUR NAME IS BEAUTIFUL</h1>
+    <p> This page is in English. </p>
+    <script>
+    var name = window.prompt("Your name? ")
+    document.write(`Hi, <strong>${name}</strong>! You name has ${name.length} letters.</br>`) //document.write => insira no documento...
+    document.write(`Your name in capitalized is: ${name.toUpperCase()}.</br>`) //</br> é usado para levar o texto para uma nova linha
+    document.write(`Your name in lower case is: ${name.toLowerCase()}.`) 
+    //${name.toUpperCase()} => LETRAS MAIÚSCULAS;
+    //${name.toLowerCase()} => letras minúsculas.
+    </script>
+</body>
+</html>
