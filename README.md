@@ -17,6 +17,8 @@ O foco deste repositório é registrar minha evolução prática em JavaScript, 
 
 - JavaScript (ES6+)
 - Node.js (quando aplicável)
+- HTML5
+- CSS3
 
 ---
 
@@ -25,4 +27,5 @@ O foco deste repositório é registrar minha evolução prática em JavaScript, 
 Os códigos aqui presentes fazem parte do meu processo de aprendizado e aprofundamento na linguagem, servindo como base para projetos futuros e fortalecimento da minha lógica e estruturação de código.
 
 ---
+
 
